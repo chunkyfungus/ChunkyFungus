@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ChunkyFungus.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ChunkyFungus.sol": {
+			"keccak256": "0xfceb507c666efd27d3aa5a93b23cf38c2599e06e008c1fe0ac49de09c14ff6dc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e260c1ab51fd8a4a34b99aef98fe19b07138b15ff310e39248145ef110227b72",
+				"dweb:/ipfs/QmS22TDNNwyzmtGnKUcFPkgi3hoGhFC5WzhYH6ufmxoPDP"
+			]
+		}
+	},
+	"version": 1
+}
